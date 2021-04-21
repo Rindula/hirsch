@@ -21,3 +21,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.8](https://github.com/Rindula/hirsch/compare/v1.3.7...v1.3.8) (2021-04-21)
+
+
+### Code Refactoring
+
+* change imagesearch icon ([dbfc7e9](https://github.com/Rindula/hirsch/commit/dbfc7e9a0a4b209d107e410d675ba8743da733d6))
+
+
+### Continuous Integration
+
+* automerge angepasst ([3bbafa8](https://github.com/Rindula/hirsch/commit/3bbafa8f711e56366514d3bb7906562fc5f8adbd))
+
+
+
