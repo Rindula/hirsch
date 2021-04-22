@@ -35,3 +35,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.9](https://github.com/Rindula/hirsch/compare/v1.3.8...v1.3.9) (2021-04-22)
+
+
+### Build Systems
+
+* **deps-dev:** bump cakephp/bake from 2.3.0 to 2.4.0 ([#66](https://github.com/Rindula/hirsch/issues/66)) ([4e2a0c5](https://github.com/Rindula/hirsch/commit/4e2a0c5dee8e2999740de9b429eda844fefca036))
+
+
+
