@@ -53,3 +53,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.11](https://github.com/Rindula/hirsch/compare/v1.3.10...v1.3.11) (2021-04-23)
+
+
+### Build Systems
+
+* **deps:** bump core-js in /webroot/vue-apps/bezahlen ([#67](https://github.com/Rindula/hirsch/issues/67)) ([248f869](https://github.com/Rindula/hirsch/commit/248f869eb3c26fbcd8c0f505324f786a54610b79))
+
+
+### Continuous Integration
+
+* add automerge scheduele ([a58ca7f](https://github.com/Rindula/hirsch/commit/a58ca7f6d1ef77df9d4ea81129a513de7ce79520))
+
+
+
