@@ -127,3 +127,24 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.16](https://github.com/Rindula/hirsch/compare/v1.3.15...v1.3.16) (2021-04-23)
+
+
+### Bug Fixes
+
+* ci variablereplacement ([2f5d949](https://github.com/Rindula/hirsch/commit/2f5d94995101f6a3bdefe8af37b8cfbeeb7cb594))
+
+
+### Build Systems
+
+* **deps-dev:** bump cakephp/bake from 2.4.0 to 2.4.1 ([#69](https://github.com/Rindula/hirsch/issues/69)) ([83fadc8](https://github.com/Rindula/hirsch/commit/83fadc8b2e7ca7748a046669f7005915d52f8ea7))
+* **deps-dev:** bump cakephp/cakephp-codesniffer from 4.3.0 to 4.4.0 ([#70](https://github.com/Rindula/hirsch/issues/70)) ([8fac1d7](https://github.com/Rindula/hirsch/commit/8fac1d7f52b56f092cee8495e6db8ebeee55568e))
+
+
+### Continuous Integration
+
+* rename build job ([36df4ae](https://github.com/Rindula/hirsch/commit/36df4ae0faa58e41e4d73e2f452f810e5417f3ac))
+* set release timezone ([0de5a95](https://github.com/Rindula/hirsch/commit/0de5a9581e707ebb96982314d59754a95a10d9a0))
+
+
+
