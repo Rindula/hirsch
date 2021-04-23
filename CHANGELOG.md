@@ -82,3 +82,38 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.14](https://github.com/Rindula/hirsch/compare/v1.3.13...v1.3.14) (2021-04-23)
+
+
+### Bug Fixes
+
+* no redirect in debug mode ([cb7626a](https://github.com/Rindula/hirsch/commit/cb7626a6ad3f0104ca57179e7e8dc3f49e888272))
+* **ci:** secrets variable ([3db8c59](https://github.com/Rindula/hirsch/commit/3db8c59a0af3e87e4ff5fec240d59363a7f1b8a2))
+* remove wrong submodule ([763ca64](https://github.com/Rindula/hirsch/commit/763ca64c86195e3618274fb45f5be36aae1ab68e))
+* submodulepath ([869f8aa](https://github.com/Rindula/hirsch/commit/869f8aac5ec58e4d2eed4674715428636b49515a))
+
+
+### Continuous Integration
+
+* add sshkey to checkout ([91c8bfc](https://github.com/Rindula/hirsch/commit/91c8bfc55c1e4ad12cad96331a52852dfef6311a))
+
+
+### Code Refactoring
+
+* move redirect to end of function ([386c257](https://github.com/Rindula/hirsch/commit/386c25760f1faca147a983d1beeca336e07a8c1e))
+
+
+### Tests
+
+* fixes ([3d45c08](https://github.com/Rindula/hirsch/commit/3d45c083100aaaae457250737aa205c2ab7bb856))
+* fixes ([d84417b](https://github.com/Rindula/hirsch/commit/d84417b4035b7a3a920d2edeabe0c15759166590))
+
+
+### Build Systems
+
+* add vue app as submodule ([985202e](https://github.com/Rindula/hirsch/commit/985202e9f2ef30e094e32740140da7a30130b060))
+* remove vueapp bezahlen ([2fef2aa](https://github.com/Rindula/hirsch/commit/2fef2aac24329031f8e8bbba0a40fe7c3648df48))
+* update submodule ([892e654](https://github.com/Rindula/hirsch/commit/892e654c9aa1022b8dd72a38e0d2a2976c819ba8))
+
+
+
