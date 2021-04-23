@@ -44,3 +44,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.10](https://github.com/Rindula/hirsch/compare/v1.3.9...v1.3.10) (2021-04-23)
+
+
+### Continuous Integration
+
+* adapt automerge ([fef4e59](https://github.com/Rindula/hirsch/commit/fef4e59eb1b0505cb70711662897a8bf693f01af))
+
+
+
