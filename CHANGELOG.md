@@ -67,3 +67,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.13](https://github.com/Rindula/hirsch/compare/v1.3.12...v1.3.13) (2021-04-23)
+
+
+### Continuous Integration
+
+* fix timestamp ([f1eae09](https://github.com/Rindula/hirsch/commit/f1eae095be934f5e414bb9ef247088794250e749))
+* update browserlist ([6828ef4](https://github.com/Rindula/hirsch/commit/6828ef4c8483fc6bb1829bfdee35deb3b834ea66))
+
+
+### Code Refactoring
+
+* change positioning of last update label ([0bd4432](https://github.com/Rindula/hirsch/commit/0bd44329cab8109399f250ab7d6d93bc2d074ad8))
+
+
+
