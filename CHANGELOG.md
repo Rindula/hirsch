@@ -117,3 +117,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.15](https://github.com/Rindula/hirsch/compare/v1.3.14...v1.3.15) (2021-04-23)
+
+
+### Bug Fixes
+
+* missing use ([48bd0cd](https://github.com/Rindula/hirsch/commit/48bd0cdfecd3e44e6c626b5a5bde55654c8bc852))
+* vue layout ([17639d3](https://github.com/Rindula/hirsch/commit/17639d3a673aee106776e85d21d39ff371543d94))
+
+
+
