@@ -148,3 +148,22 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.17](https://github.com/Rindula/hirsch/compare/v1.3.16...v1.3.17) (2021-04-24)
+
+
+### Bug Fixes
+
+* dependabot schedule ([bf83d50](https://github.com/Rindula/hirsch/commit/bf83d50b99426d0abf83f34c0ed2b30eda7d1a39))
+
+
+### Build Systems
+
+* **deps-dev:** bump phpunit/phpunit from 8.5.15 to 9.5.4 ([#68](https://github.com/Rindula/hirsch/issues/68)) ([c1b8065](https://github.com/Rindula/hirsch/commit/c1b806571df2764336c96175c47860ff60816111))
+
+
+### Continuous Integration
+
+* update dependabot checks ([defb8d4](https://github.com/Rindula/hirsch/commit/defb8d420fe736a2c33ecd416a24b3f1b9519446))
+
+
+
