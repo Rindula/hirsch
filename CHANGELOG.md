@@ -176,3 +176,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.19](https://github.com/Rindula/hirsch/compare/v1.3.18...v1.3.19) (2021-04-24)
+
+
+### Bug Fixes
+
+* typo ([ff541a7](https://github.com/Rindula/hirsch/commit/ff541a70284b48befb4864e7c61a654b8023e743))
+
+
+
