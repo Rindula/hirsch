@@ -167,3 +167,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.18](https://github.com/Rindula/hirsch/compare/v1.3.17...v1.3.18) (2021-04-24)
+
+
+### Continuous Integration
+
+* add autoapprove ([3415715](https://github.com/Rindula/hirsch/commit/341571518c94bd141f93901159a20e5f542515d0))
+
+
+
