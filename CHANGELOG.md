@@ -185,3 +185,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.3.20](https://github.com/Rindula/hirsch/compare/v1.3.19...v1.3.20) (2021-04-26)
+
+
+### Bug Fixes
+
+* no preview for holiday days ([e03fe73](https://github.com/Rindula/hirsch/commit/e03fe73b644942fec012103b0ff0fa8c2aebc0a6))
+
+
+### Continuous Integration
+
+* **dependabot:** update time to check ([04bc849](https://github.com/Rindula/hirsch/commit/04bc84958d48571a70684a5a163f0e6bbefc429d))
+* update labeling ([c16c81c](https://github.com/Rindula/hirsch/commit/c16c81ce9bbed88390e805d67a5268d3b7ebed74))
+
+
+
