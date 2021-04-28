@@ -200,3 +200,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [1.4.0](https://github.com/Rindula/hirsch/compare/v1.3.20...v1.4.0) (2021-04-28)
+
+
+### Features
+
+* show who ordered what ([3b29618](https://github.com/Rindula/hirsch/commit/3b29618086d81b1b3c36d9277ee8a81c24e3eab8))
+
+
+
