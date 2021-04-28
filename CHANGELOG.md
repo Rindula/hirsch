@@ -209,3 +209,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.1](https://github.com/Rindula/hirsch/compare/v1.4.0...v1.4.1) (2021-04-28)
+
+
+### Bug Fixes
+
+* position of the ordered icon ([e42ea3b](https://github.com/Rindula/hirsch/commit/e42ea3b52d02f5cf360756a459691554ed4878d9))
+
+
+
