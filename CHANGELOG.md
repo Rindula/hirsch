@@ -218,3 +218,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.2](https://github.com/Rindula/hirsch/compare/v1.4.1...v1.4.2) (2021-04-28)
+
+
+### Bug Fixes
+
+* position of modal close x ([25b2b74](https://github.com/Rindula/hirsch/commit/25b2b74899a2d81759c8cafdb65e9e3b5547dbd5))
+
+
+
