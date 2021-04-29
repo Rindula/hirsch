@@ -227,3 +227,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.3](https://github.com/Rindula/hirsch/compare/v1.4.2...v1.4.3) (2021-04-29)
+
+
+### Continuous Integration
+
+* **deps:** bump gha-utilities/sass-build from v0.3.7 to v0.3.9 ([#75](https://github.com/Rindula/hirsch/issues/75)) ([5f93dcf](https://github.com/Rindula/hirsch/commit/5f93dcf8a71175fdea1dbc5bcac8efe57f11ea45))
+
+
+### Build Systems
+
+* **deps:** bump smalot/pdfparser from 0.19.0 to 1.0.0 ([#74](https://github.com/Rindula/hirsch/issues/74)) ([cf65209](https://github.com/Rindula/hirsch/commit/cf65209012029803e5bc7405186d61e0f4d92de7))
+* **deps-dev:** bump cakephp/bake from 2.4.1 to 2.5.0 ([#73](https://github.com/Rindula/hirsch/issues/73)) ([1c748c0](https://github.com/Rindula/hirsch/commit/1c748c0c9173224b36550e996c4a5f56abba30f7))
+
+
+
