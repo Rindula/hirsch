@@ -242,3 +242,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.4](https://github.com/Rindula/hirsch/compare/v1.4.3...v1.4.4) (2021-04-29)
+
+
+### Continuous Integration
+
+* update cleanup step ([f2f4ffc](https://github.com/Rindula/hirsch/commit/f2f4ffcc4d85188bccc2a8be758a7beb04a31b08))
+* update commitmessage ([1d6b87e](https://github.com/Rindula/hirsch/commit/1d6b87e0561b952ee47b59f986a18e5b5939be43))
+
+
+
