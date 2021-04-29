@@ -242,3 +242,7 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.4](https://github.com/Rindula/hirsch/compare/v1.4.3...v1.4.4) (2021-04-29)
+
+
+
