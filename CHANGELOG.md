@@ -252,3 +252,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.5](https://github.com/Rindula/hirsch/compare/v1.4.4...v1.4.5) (2021-04-30)
+
+
+### Build Systems
+
+* **deps:** bump composer/composer from 2.0.12 to 2.0.13 ([#77](https://github.com/Rindula/hirsch/issues/77)) ([cf6fa2e](https://github.com/Rindula/hirsch/commit/cf6fa2e78cd2a545721595ce4c9ed03afd13bf47))
+
+
+
