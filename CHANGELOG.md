@@ -270,3 +270,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.7](https://github.com/Rindula/hirsch/compare/v1.4.6...v1.4.7) (2021-05-06)
+
+
+### Build Systems
+
+* **deps:** bump cakephp/cakephp from 4.2.5 to 4.2.6 ([#80](https://github.com/Rindula/hirsch/issues/80)) ([ea7ff10](https://github.com/Rindula/hirsch/commit/ea7ff1030c960bc2576ce56f4603919fd73680ac))
+* **deps:** bump webroot/vue-apps/bezahlen from  to  ([#79](https://github.com/Rindula/hirsch/issues/79)) ([9211269](https://github.com/Rindula/hirsch/commit/9211269274b181caf9b348e0dec9b8731f236254))
+
+
+
