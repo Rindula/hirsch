@@ -307,3 +307,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.11](https://github.com/Rindula/hirsch/compare/v1.4.10...v1.4.11) (2021-05-11)
+
+
+### Build Systems
+
+* **deps-dev:** bump cakephp/debug_kit from 4.4.2 to 4.4.3 ([#84](https://github.com/Rindula/hirsch/issues/84)) ([aa1db17](https://github.com/Rindula/hirsch/commit/aa1db177485871cd7e30883571c70554c21007fe))
+
+
+
