@@ -316,3 +316,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.12](https://github.com/Rindula/hirsch/compare/v1.4.11...v1.4.12) (2021-05-11)
+
+
+### Bug Fixes
+
+* Holiday marking ([bc7af2a](https://github.com/Rindula/hirsch/commit/bc7af2a3923d64637755116e18501aa30213341e))
+* regex meal of the day ([c49178c](https://github.com/Rindula/hirsch/commit/c49178c98989351614605dafb806a495b9fd35f1))
+
+
+### Continuous Integration
+
+* anpassungen cleanup ([588bbcf](https://github.com/Rindula/hirsch/commit/588bbcf71964adb11460e2cdc80e1f908a49bfe4))
+
+
+
