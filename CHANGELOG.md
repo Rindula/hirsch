@@ -353,3 +353,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.15](https://github.com/Rindula/hirsch/compare/v1.4.14...v1.4.15) (2021-05-12)
+
+
+### Continuous Integration
+
+* change artifact retention-days to 1 ([9310eab](https://github.com/Rindula/hirsch/commit/9310eab7a553b8f6afcf102e507f09b1ccce7bca))
+
+
+
