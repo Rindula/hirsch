@@ -340,3 +340,16 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.14](https://github.com/Rindula/hirsch/compare/v1.4.13...v1.4.14) (2021-05-12)
+
+
+### Continuous Integration
+
+* **deps:** bump actions/checkout from 2 to 2.3.4 ([#89](https://github.com/Rindula/hirsch/issues/89)) ([c2f6647](https://github.com/Rindula/hirsch/commit/c2f6647678aa48c87a96d52b86791ee881ec4c79))
+* **deps:** bump actions/setup-node from 2 to 2.1.5 ([#86](https://github.com/Rindula/hirsch/issues/86)) ([89d7700](https://github.com/Rindula/hirsch/commit/89d7700a61cb0ba44e714a06f246d3f134de01d7))
+* **deps:** bump EndBug/add-and-commit from 7 to 7.2.1 ([#90](https://github.com/Rindula/hirsch/issues/90)) ([cba2782](https://github.com/Rindula/hirsch/commit/cba2782b22bbe1fe3251f3989001e49cace99abb))
+* **deps:** bump nick-invision/retry from 2 to 2.4.0 ([#88](https://github.com/Rindula/hirsch/issues/88)) ([a76dd6e](https://github.com/Rindula/hirsch/commit/a76dd6ebd0af14b0d706740eeffb23fec5e9533c))
+* **deps:** bump shivammathur/setup-php from 2 to 2.11.0 ([#87](https://github.com/Rindula/hirsch/issues/87)) ([2328a11](https://github.com/Rindula/hirsch/commit/2328a1171a82c712907bf6a824ad8a422db91212))
+
+
+
