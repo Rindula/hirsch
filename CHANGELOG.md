@@ -371,3 +371,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.17](https://github.com/Rindula/hirsch/compare/v1.4.16...v1.4.17) (2021-05-17)
+
+
+### Continuous Integration
+
+* **deps:** bump gha-utilities/sass-build from 0.3.9 to 0.4.1 ([#92](https://github.com/Rindula/hirsch/issues/92)) ([f21fdcc](https://github.com/Rindula/hirsch/commit/f21fdcc14de74800d378c0bb999b3bc2ee230c43))
+
+
+
