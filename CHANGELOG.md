@@ -380,3 +380,7 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.18](https://github.com/Rindula/hirsch/compare/v1.4.17...v1.4.18) (2021-05-20)
+
+
+
