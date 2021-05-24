@@ -384,3 +384,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.19](https://github.com/Rindula/hirsch/compare/v1.4.18...v1.4.19) (2021-05-24)
+
+
+### Continuous Integration
+
+* **deps:** bump gha-utilities/sass-build from 0.4.1 to 0.4.2 ([#95](https://github.com/Rindula/hirsch/issues/95)) ([2d481bc](https://github.com/Rindula/hirsch/commit/2d481bcdfda4182fa25a2f1e95004c1b78d6d1c3))
+
+
+### Build Systems
+
+* **deps:** bump webroot/vue-apps/bezahlen from  to  ([#96](https://github.com/Rindula/hirsch/issues/96)) ([eaad15d](https://github.com/Rindula/hirsch/commit/eaad15df218fdabe4872ce5cbac6b26406a4ecbe))
+* **deps-dev:** bump cakephp/cakephp-codesniffer from 4.4.0 to 4.4.1 ([#94](https://github.com/Rindula/hirsch/issues/94)) ([b0e94a7](https://github.com/Rindula/hirsch/commit/b0e94a7e46c5ae4bf007940ac2ede331c1fbefcc))
+
+
+
