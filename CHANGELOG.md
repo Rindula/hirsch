@@ -408,3 +408,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.21](https://github.com/Rindula/hirsch/compare/v1.4.20...v1.4.21) (2021-05-26)
+
+
+### Build Systems
+
+* **deps:** bump cakephp/migrations from 3.0.0 to 3.1.0 ([#98](https://github.com/Rindula/hirsch/issues/98)) ([1f6ec6b](https://github.com/Rindula/hirsch/commit/1f6ec6b95255a9fea9d8cbe18e95d0a1c696b8e6))
+
+
+
