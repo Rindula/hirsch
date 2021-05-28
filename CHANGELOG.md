@@ -426,3 +426,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.23](https://github.com/Rindula/hirsch/compare/v1.4.22...v1.4.23) (2021-05-28)
+
+
+### Continuous Integration
+
+* update dependabot config ([6baa380](https://github.com/Rindula/hirsch/commit/6baa380dbaac3a1f7698a00262a26405dca961a0))
+
+
+
