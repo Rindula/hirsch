@@ -435,3 +435,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.24](https://github.com/Rindula/hirsch/compare/v1.4.23...v1.4.24) (2021-05-31)
+
+
+### Build Systems
+
+* **deps-dev:** bump cakephp/cakephp-codesniffer from 4.4.1 to 4.4.2 ([#100](https://github.com/Rindula/hirsch/issues/100)) ([da14866](https://github.com/Rindula/hirsch/commit/da1486655d6afee7745ebb9149e3db18ffd46eba))
+
+
+
