@@ -462,3 +462,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.27](https://github.com/Rindula/hirsch/compare/v1.4.26...v1.4.27) (2021-06-04)
+
+
+### Continuous Integration
+
+* **deps:** bump gha-utilities/sass-build from 0.4.2 to 0.4.3 ([#103](https://github.com/Rindula/hirsch/issues/103)) ([e8cdce5](https://github.com/Rindula/hirsch/commit/e8cdce577dd7eb6364c9454ed065bbb259891809))
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#104](https://github.com/Rindula/hirsch/issues/104)) ([c2859e7](https://github.com/Rindula/hirsch/commit/c2859e7245c844f4beab936f20748346c4dc9481))
+
+
+
