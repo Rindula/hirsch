@@ -504,3 +504,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.31](https://github.com/Rindula/hirsch/compare/v1.4.30...v1.4.31) (2021-06-11)
+
+
+### Continuous Integration
+
+* **deps:** bump nick-invision/retry from 2.4.0 to 2.4.1 ([#109](https://github.com/Rindula/hirsch/issues/109)) ([bf98d4e](https://github.com/Rindula/hirsch/commit/bf98d4e69526b10353f4f499dcd348c188760278))
+
+
+
