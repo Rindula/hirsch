@@ -542,3 +542,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.35](https://github.com/Rindula/hirsch/compare/v1.4.34...v1.4.35) (2021-06-22)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#116](https://github.com/Rindula/hirsch/issues/116)) ([3c9aeca](https://github.com/Rindula/hirsch/commit/3c9aecabaa6fcb20d3ae698834ffe5568b160de2))
+* **deps:** bump smalot/pdfparser from 1.0.1 to 1.0.2 ([#115](https://github.com/Rindula/hirsch/issues/115)) ([4d18517](https://github.com/Rindula/hirsch/commit/4d185175a08e6c74f175354023c783284b7f93c0))
+
+
+
