@@ -552,3 +552,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.36](https://github.com/Rindula/hirsch/compare/v1.4.35...v1.4.36) (2021-06-24)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#118](https://github.com/Rindula/hirsch/issues/118)) ([25590db](https://github.com/Rindula/hirsch/commit/25590dbd817af0d35ac0032c1cbd826509b2abf9))
+* **deps-dev:** bump phpunit/phpunit from 9.5.5 to 9.5.6 ([#117](https://github.com/Rindula/hirsch/issues/117)) ([0da78b7](https://github.com/Rindula/hirsch/commit/0da78b7fb61709ab1bf4985180a235b848bacf7e))
+
+
+
