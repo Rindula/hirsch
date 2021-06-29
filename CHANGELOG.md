@@ -580,3 +580,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.39](https://github.com/Rindula/hirsch/compare/v1.4.38...v1.4.39) (2021-06-29)
+
+
+### Bug Fixes
+
+* Mailversand ([020ba13](https://github.com/Rindula/hirsch/commit/020ba13954fc04ffa11b2382b912a3b858dfb073))
+
+
+
