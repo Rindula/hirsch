@@ -630,3 +630,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.44](https://github.com/Rindula/hirsch/compare/v1.4.43...v1.4.44) (2021-07-15)
+
+
+### Continuous Integration
+
+* **deps:** bump shivammathur/setup-php from 2.11.0 to 2.12.0 ([#126](https://github.com/Rindula/hirsch/issues/126)) ([88af5f9](https://github.com/Rindula/hirsch/commit/88af5f9b227c27bd8711bc84a06d66c781255e91))
+
+
+
