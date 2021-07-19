@@ -639,3 +639,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.45](https://github.com/Rindula/hirsch/compare/v1.4.44...v1.4.45) (2021-07-19)
+
+
+### Build Systems
+
+* **deps:** bump cakephp/cakephp from 4.2.7 to 4.2.8 ([#127](https://github.com/Rindula/hirsch/issues/127)) ([dd226d5](https://github.com/Rindula/hirsch/commit/dd226d561ed67c313284952455020a80b1b6fd6f))
+
+
+
