@@ -657,3 +657,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.4.47](https://github.com/Rindula/hirsch/compare/v1.4.46...v1.4.47) (2021-07-20)
+
+
+### Build Systems
+
+* **deps-dev:** bump phpunit/phpunit from 9.5.6 to 9.5.7 ([#128](https://github.com/Rindula/hirsch/issues/128)) ([aae351f](https://github.com/Rindula/hirsch/commit/aae351fcdf23b81b8eacfcf09799717c40a5f28e))
+
+
+
