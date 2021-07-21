@@ -689,3 +689,28 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.5.1](https://github.com/Rindula/hirsch/compare/v1.5.0...v1.5.1) (2021-07-21)
+
+
+### Bug Fixes
+
+* Button Style ([950c58e](https://github.com/Rindula/hirsch/commit/950c58e1318df3fbe34df2fad215e2bd8d082703))
+* show pdf only if exists ([ba34e28](https://github.com/Rindula/hirsch/commit/ba34e28628fa9fe1a1089ba7645561103bc2cc26))
+
+
+### Tests
+
+* migrate phpunit.xml ([72c3535](https://github.com/Rindula/hirsch/commit/72c3535590088670c716c73130818cc897fb08d8))
+
+
+### Continuous Integration
+
+* change automerge scheduele ([5de2829](https://github.com/Rindula/hirsch/commit/5de2829469acc4b18b7769b777c0a74d481eeffe))
+
+
+### Code Refactoring
+
+* improve anti-file cache ([d3399b8](https://github.com/Rindula/hirsch/commit/d3399b8a789c8e848ae68d985806618dc57e383d))
+
+
+
