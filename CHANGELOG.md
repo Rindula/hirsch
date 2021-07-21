@@ -675,3 +675,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [1.5.0](https://github.com/Rindula/hirsch/compare/v1.4.48...v1.5.0) (2021-07-21)
+
+
+### Features
+
+* PDF Karte anzeigen lassen ([410cdbd](https://github.com/Rindula/hirsch/commit/410cdbd5a50cf9a30bc51214b5d409dc4e9d1dc7))
+
+
+### Code Refactoring
+
+* parse only if filename matches ([25d7926](https://github.com/Rindula/hirsch/commit/25d7926ebb6c3929006bde600d54eaeb9f180412))
+
+
+
