@@ -714,3 +714,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.5.2](https://github.com/Rindula/hirsch/compare/v1.5.1...v1.5.2) (2021-07-23)
+
+
+### Continuous Integration
+
+* **deps:** bump mathieudutour/github-tag-action from 5.5 to 5.6 ([#131](https://github.com/Rindula/hirsch/issues/131)) ([096125a](https://github.com/Rindula/hirsch/commit/096125a8d5ecd54e9383401db655c65148a16c9b))
+
+
+
