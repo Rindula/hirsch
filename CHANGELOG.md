@@ -783,3 +783,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.3](https://github.com/Rindula/hirsch/compare/v1.6.2...v1.6.3) (2021-07-27)
+
+
+### Performance Improvements
+
+* cleanup old caches ([111a72a](https://github.com/Rindula/hirsch/commit/111a72ad54f5a4e6476b33fbfc8e98ffe613583b))
+* improve caching ([5228ba8](https://github.com/Rindula/hirsch/commit/5228ba860a8234112be2afb4f740a3d7b6f6cd99))
+
+
+### Code Refactoring
+
+* manifest background-color change ([06fea0e](https://github.com/Rindula/hirsch/commit/06fea0eb958fd327d7ff68aefe5cae14ad0e954c))
+
+
+
