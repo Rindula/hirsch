@@ -827,3 +827,22 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.6](https://github.com/Rindula/hirsch/compare/v1.6.5...v1.6.6) (2021-07-27)
+
+
+### Bug Fixes
+
+* sw auth only on page ([58b47d4](https://github.com/Rindula/hirsch/commit/58b47d4611cf18c63b7d98fcb91d4d23b3d978fd))
+
+
+### Performance Improvements
+
+* cache material icons dynamically ([03d8cec](https://github.com/Rindula/hirsch/commit/03d8cecb49b5577f73d92e109f7694b5503d0c6f))
+
+
+### Continuous Integration
+
+* change order ([5e861e4](https://github.com/Rindula/hirsch/commit/5e861e4b2949f991743b702fd22cc534dda71790))
+
+
+
