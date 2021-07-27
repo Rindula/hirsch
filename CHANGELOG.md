@@ -749,3 +749,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.1](https://github.com/Rindula/hirsch/compare/v1.6.0...v1.6.1) (2021-07-27)
+
+
+### Code Refactoring
+
+* cache manifest.json ([5d3d1df](https://github.com/Rindula/hirsch/commit/5d3d1dfe296d3cb9831ff096f1f0fe3a262a0684))
+
+
+### Continuous Integration
+
+* fix date replacement ([d4fe7d2](https://github.com/Rindula/hirsch/commit/d4fe7d2e38577995eca9f54e3810b959fcaa8782))
+
+
+
