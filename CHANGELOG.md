@@ -798,3 +798,22 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.4](https://github.com/Rindula/hirsch/compare/v1.6.3...v1.6.4) (2021-07-27)
+
+
+### Bug Fixes
+
+* missing argument ([1609355](https://github.com/Rindula/hirsch/commit/16093558e1c894d76628ddbf33ab1a983a97dd7b))
+
+
+### Performance Improvements
+
+* add dynamic cache ([320c3e7](https://github.com/Rindula/hirsch/commit/320c3e7d561919ea6ac8a7d2f1e75919bca584e5))
+
+
+### Code Refactoring
+
+* fallback offline page ([108f25d](https://github.com/Rindula/hirsch/commit/108f25d8fa2df5f3361ed339c49f75b4c3382db2))
+
+
+
