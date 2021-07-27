@@ -846,3 +846,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.7](https://github.com/Rindula/hirsch/compare/v1.6.6...v1.6.7) (2021-07-27)
+
+
+### Bug Fixes
+
+* **javascript:** TypeError ([a85dca7](https://github.com/Rindula/hirsch/commit/a85dca7e7ebc03120170ae6911809ea7a3803e10))
+* **sass-compiler:** missing dependency ([7dab410](https://github.com/Rindula/hirsch/commit/7dab410ec539b6db8f0cf5fa6219f966537e1274))
+
+
+### Styles
+
+* scss formatting ([363e41d](https://github.com/Rindula/hirsch/commit/363e41d78374b98db7c832581552c8d7c0db0dd8))
+
+
+
