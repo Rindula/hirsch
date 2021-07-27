@@ -861,3 +861,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.8](https://github.com/Rindula/hirsch/compare/v1.6.7...v1.6.8) (2021-07-27)
+
+
+### Performance Improvements
+
+* use material-icons locally ([6c331b3](https://github.com/Rindula/hirsch/commit/6c331b3110050dc1b7dd52d649afb26902508c9b))
+
+
+
