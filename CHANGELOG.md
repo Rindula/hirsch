@@ -817,3 +817,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.5](https://github.com/Rindula/hirsch/compare/v1.6.4...v1.6.5) (2021-07-27)
+
+
+### Performance Improvements
+
+* add missing caching dependency ([a636242](https://github.com/Rindula/hirsch/commit/a6362429812effbc56687b55269b1a449b099978))
+* vue-caching ([71735d7](https://github.com/Rindula/hirsch/commit/71735d703379fb55ba4cb9f476837a4354ecbb94))
+
+
+
