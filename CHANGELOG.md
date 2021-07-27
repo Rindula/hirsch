@@ -734,3 +734,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [1.6.0](https://github.com/Rindula/hirsch/compare/v1.5.3...v1.6.0) (2021-07-27)
+
+
+### Features
+
+* PWA ([9bd1cf1](https://github.com/Rindula/hirsch/commit/9bd1cf181790128cd0ea6775ee2aa2ae328a2903))
+
+
+### Continuous Integration
+
+* sw replace version ([84d7006](https://github.com/Rindula/hirsch/commit/84d700622200b01602df7cdba02438a7f1942cfe))
+* sw replace version ([c7e8106](https://github.com/Rindula/hirsch/commit/c7e81066dc1740f8dfd22cd09f93ef88e111eeb7))
+
+
+
