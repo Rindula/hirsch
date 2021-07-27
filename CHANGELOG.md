@@ -763,3 +763,23 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.2](https://github.com/Rindula/hirsch/compare/v1.6.1...v1.6.2) (2021-07-27)
+
+
+### Build Systems
+
+* no auth for manifest.json ([43284bd](https://github.com/Rindula/hirsch/commit/43284bdd3cbce50755ebc6fe81f792e03912be2d))
+
+
+### Continuous Integration
+
+* fix basicauth string ([a375d59](https://github.com/Rindula/hirsch/commit/a375d59fd7126a04afe417022287191b78bb33a8))
+* fix replacements ([05ccb34](https://github.com/Rindula/hirsch/commit/05ccb34dd1424876ffb36609a2a2d6ca6912cc8a))
+
+
+### Code Refactoring
+
+* serviceworker basic auth ([50f17f7](https://github.com/Rindula/hirsch/commit/50f17f7c1be733c4f834563a3f14a02594517bf1))
+
+
+
