@@ -899,3 +899,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.11](https://github.com/Rindula/hirsch/compare/v1.6.10...v1.6.11) (2021-07-28)
+
+
+### Bug Fixes
+
+* sw caching ([faa1425](https://github.com/Rindula/hirsch/commit/faa14253f504eee719af8dbf95a1d6a89c53c2f9))
+* sw custom cache ([c4b884d](https://github.com/Rindula/hirsch/commit/c4b884d66c14281fc97f253c481460e7ff59764b))
+
+
+
