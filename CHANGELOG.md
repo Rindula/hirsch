@@ -947,3 +947,14 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.16](https://github.com/Rindula/hirsch/compare/v1.6.15...v1.6.16) (2021-07-28)
+
+
+### Continuous Integration
+
+* add if statements to flow ([fc2f9d2](https://github.com/Rindula/hirsch/commit/fc2f9d217fe70859cc84dfc57cc321065597dbed))
+* fix if conditions ([172d144](https://github.com/Rindula/hirsch/commit/172d144f3fa289708ca44505b7f852535400f605))
+* fix if conditions ([aa364ab](https://github.com/Rindula/hirsch/commit/aa364abb8fc7838984d0df014c1a20567a879ac2))
+
+
+
