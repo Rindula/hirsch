@@ -937,3 +937,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.15](https://github.com/Rindula/hirsch/compare/v1.6.14...v1.6.15) (2021-07-28)
+
+
+### Continuous Integration
+
+* add compiled filed to git ([6b4e0f3](https://github.com/Rindula/hirsch/commit/6b4e0f37cae5b93ad87304e703ddec6c1952b4d7))
+* rename artifact ([8c093f5](https://github.com/Rindula/hirsch/commit/8c093f5e57d175e2da1a960704f718a80bc8593c))
+
+
+
