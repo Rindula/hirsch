@@ -885,3 +885,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.10](https://github.com/Rindula/hirsch/compare/v1.6.9...v1.6.10) (2021-07-28)
+
+
+### Bug Fixes
+
+* sw skip wait ([e66f511](https://github.com/Rindula/hirsch/commit/e66f511d82c4980c7f4601639db9efe02a599d02))
+
+
+### Code Refactoring
+
+* change icon purpose to any maskable ([fb819cf](https://github.com/Rindula/hirsch/commit/fb819cf786a55a5612731d53fbc0a3e614c74a0b))
+
+
+
