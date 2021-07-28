@@ -958,3 +958,25 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.17](https://github.com/Rindula/hirsch/compare/v1.6.16...v1.6.17) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove order page from cache ([62f06e6](https://github.com/Rindula/hirsch/commit/62f06e68c3d40c35fd799d90eec182bf4ab135c1))
+* **sw:** fallback ([5ab5b88](https://github.com/Rindula/hirsch/commit/5ab5b88966712695999f9e88f626946a2094c0dc))
+* fallback link ([805f8ae](https://github.com/Rindula/hirsch/commit/805f8aec5fd4b952995fab5b3b886e42a63d62cc))
+* sw response ([fac4e83](https://github.com/Rindula/hirsch/commit/fac4e83726bb17a3ecfcbe47481261841393f733))
+
+
+### Documentation
+
+* remove php-check badge ([34c2e74](https://github.com/Rindula/hirsch/commit/34c2e745b60601623a1a72c8aa1838fbad1b22ad))
+
+
+### Code Refactoring
+
+* offline notification ([05cfa15](https://github.com/Rindula/hirsch/commit/05cfa15a3f7aa1fb0de94db198135b8cc999c929))
+
+
+
