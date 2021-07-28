@@ -918,3 +918,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.13](https://github.com/Rindula/hirsch/compare/v1.6.12...v1.6.13) (2021-07-28)
+
+
+### Bug Fixes
+
+* sw-headers ([19310e0](https://github.com/Rindula/hirsch/commit/19310e0db56fd965fa07c103b17e0a2fdf3e5ae8))
+* **sw:** variable naming ([ed4f85b](https://github.com/Rindula/hirsch/commit/ed4f85b5d84eacd626cf05f1cd3306ac4803fd5b))
+
+
+
