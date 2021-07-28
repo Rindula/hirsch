@@ -870,3 +870,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.9](https://github.com/Rindula/hirsch/compare/v1.6.8...v1.6.9) (2021-07-28)
+
+
+### Bug Fixes
+
+* sw not cache orders ([3152354](https://github.com/Rindula/hirsch/commit/3152354c0b41e8cf4fdbb9635c752d568e0a8908))
+
+
+### Code Refactoring
+
+* anpassung fallback.html ([3474830](https://github.com/Rindula/hirsch/commit/3474830fb4d96f0ab6c3e19d063a1a6b409b52a5))
+* notify on sw-update ([1ad59c8](https://github.com/Rindula/hirsch/commit/1ad59c89f8226989edcf49d25450d869d0d549f5))
+
+
+
