@@ -980,3 +980,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.18](https://github.com/Rindula/hirsch/compare/v1.6.17...v1.6.18) (2021-07-29)
+
+
+### Code Refactoring
+
+* use minified js ([735a2f2](https://github.com/Rindula/hirsch/commit/735a2f21629097f0abb3c27be09b43bd3e5d1cfe))
+
+
+### Continuous Integration
+
+* minify js ([43430e4](https://github.com/Rindula/hirsch/commit/43430e4b5ca4284d4cfabfcaac343310bd179a98))
+
+
+
