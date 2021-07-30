@@ -994,3 +994,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.19](https://github.com/Rindula/hirsch/compare/v1.6.18...v1.6.19) (2021-07-30)
+
+
+### Continuous Integration
+
+* **deps:** bump styfle/cancel-workflow-action from 0.9.0 to 0.9.1 ([#135](https://github.com/Rindula/hirsch/issues/135)) ([809a10c](https://github.com/Rindula/hirsch/commit/809a10cb643515201a3601bac5e23c16e0f8d86f))
+
+
+
