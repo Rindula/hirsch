@@ -1021,3 +1021,18 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.22](https://github.com/Rindula/hirsch/compare/v1.6.21...v1.6.22) (2021-08-03)
+
+
+### Bug Fixes
+
+* order with serviceworker ([1f28dbb](https://github.com/Rindula/hirsch/commit/1f28dbb41f76e14369e4b6396268c541ad7fc7d5))
+* **fallback:** index link ([a27fd02](https://github.com/Rindula/hirsch/commit/a27fd027332c9e561272f4d352176038d775dd22))
+
+
+### Code Refactoring
+
+* don't ask to refresh sw ([db95dab](https://github.com/Rindula/hirsch/commit/db95dabf6f8d501ad25dd8be022036d5843f1c22))
+
+
+
