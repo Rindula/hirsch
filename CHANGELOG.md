@@ -1036,3 +1036,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.23](https://github.com/Rindula/hirsch/compare/v1.6.22...v1.6.23) (2021-08-03)
+
+
+### Bug Fixes
+
+* exclude sw from caching ([bb07551](https://github.com/Rindula/hirsch/commit/bb075511a4a79e6cd51963a0fc6283b2b3ec5e97))
+
+
+
