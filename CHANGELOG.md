@@ -1045,3 +1045,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.24](https://github.com/Rindula/hirsch/compare/v1.6.23...v1.6.24) (2021-08-04)
+
+
+### Continuous Integration
+
+* **deps:** bump actions/setup-node from 2.3.0 to 2.3.1 ([#138](https://github.com/Rindula/hirsch/issues/138)) ([a102239](https://github.com/Rindula/hirsch/commit/a102239db18394a34f3fc5b6798fd086d3f5ca9a))
+
+
+
