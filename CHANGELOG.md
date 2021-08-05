@@ -1054,3 +1054,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.25](https://github.com/Rindula/hirsch/compare/v1.6.24...v1.6.25) (2021-08-05)
+
+
+### Continuous Integration
+
+* **deps:** bump actions/setup-node from 2.3.1 to 2.3.2 ([#139](https://github.com/Rindula/hirsch/issues/139)) ([0907b20](https://github.com/Rindula/hirsch/commit/0907b203af0d0712c13160ad8669224164121d12))
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#140](https://github.com/Rindula/hirsch/issues/140)) ([cdb0c95](https://github.com/Rindula/hirsch/commit/cdb0c9549b9dbcc29c4399f6f0e3f32451ff4d6b))
+
+
+
