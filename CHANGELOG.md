@@ -1068,3 +1068,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.26](https://github.com/Rindula/hirsch/compare/v1.6.25...v1.6.26) (2021-08-06)
+
+
+### Continuous Integration
+
+* **deps:** bump actions/setup-node from 2.3.2 to 2.4.0 ([#141](https://github.com/Rindula/hirsch/issues/141)) ([87dcad3](https://github.com/Rindula/hirsch/commit/87dcad3cc54a38c84383063ccc30543a4a4efeac))
+* **deps:** bump gha-utilities/sass-build from 0.4.4 to 0.4.5 ([#142](https://github.com/Rindula/hirsch/issues/142)) ([d29ec7b](https://github.com/Rindula/hirsch/commit/d29ec7ba4aa951e4240791b4beaf95d630097d96))
+
+
+
