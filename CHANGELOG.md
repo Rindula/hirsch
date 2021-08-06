@@ -1078,3 +1078,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.27](https://github.com/Rindula/hirsch/compare/v1.6.26...v1.6.27) (2021-08-06)
+
+
+### Performance Improvements
+
+* remove animation ([835b43b](https://github.com/Rindula/hirsch/commit/835b43bec8ac1bbc058fa5d913d7f20f89ebecd1))
+
+
+### Continuous Integration
+
+* fix order ([87756e5](https://github.com/Rindula/hirsch/commit/87756e5ede12fa274263e046b63b20719eab1243))
+
+
+
