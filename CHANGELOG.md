@@ -1092,3 +1092,21 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.28](https://github.com/Rindula/hirsch/compare/v1.6.27...v1.6.28) (2021-08-07)
+
+
+### Code Refactoring
+
+* add background color to active paypalme ([0a1eb60](https://github.com/Rindula/hirsch/commit/0a1eb6091a71bfdbdff66ee1fd9efdfefad7beb2))
+
+
+### Continuous Integration
+
+* always clean up artifacts ([59fb1d2](https://github.com/Rindula/hirsch/commit/59fb1d222104afd92fff181b91ab366ac9ab021e))
+* fix cancel in progress ([2d7d18c](https://github.com/Rindula/hirsch/commit/2d7d18cfb527b6aa9ddd7ff9898169c10166c3c1))
+* fix concurrency ([db303c5](https://github.com/Rindula/hirsch/commit/db303c5123636eeb0925c6c627f3dbabcdceae7d))
+* fix concurrency ([6cca0b0](https://github.com/Rindula/hirsch/commit/6cca0b0d743c3b9ebbcacf09ef2cda29d668dfc8))
+* make use of concurrency parameter ([107b036](https://github.com/Rindula/hirsch/commit/107b0364adc7aeb991f5dc7667c9477cc5801e2f))
+
+
+
