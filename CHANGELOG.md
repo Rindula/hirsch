@@ -1148,3 +1148,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.32](https://github.com/Rindula/hirsch/compare/v1.6.31...v1.6.32) (2021-08-09)
+
+
+### Bug Fixes
+
+* **cache:** remove crc ([454ed34](https://github.com/Rindula/hirsch/commit/454ed3455bc0438bcc605513fb4a2da5b706e27b))
+
+
+
