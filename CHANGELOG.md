@@ -1191,3 +1191,7 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.36](https://github.com/Rindula/hirsch/compare/v1.6.35...v1.6.36) (2021-08-09)
+
+
+
