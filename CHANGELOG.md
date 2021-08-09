@@ -1157,3 +1157,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.33](https://github.com/Rindula/hirsch/compare/v1.6.32...v1.6.33) (2021-08-09)
+
+
+### Bug Fixes
+
+* **cache:** add missing files ([05bf3f9](https://github.com/Rindula/hirsch/commit/05bf3f99968f78b719570a441bdeca9baaad8906))
+
+
+
