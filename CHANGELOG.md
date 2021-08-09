@@ -1110,3 +1110,23 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.29](https://github.com/Rindula/hirsch/compare/v1.6.28...v1.6.29) (2021-08-09)
+
+
+### Bug Fixes
+
+* **sw:** missing variable name ([51e5263](https://github.com/Rindula/hirsch/commit/51e5263e88c1c90b88b3bfc9e88a54c021b75d13))
+
+
+### Continuous Integration
+
+* disable warn on retry ([97cbd08](https://github.com/Rindula/hirsch/commit/97cbd08d1758260dbff6b61bc8a96b9efd32b375))
+
+
+### Code Refactoring
+
+* add favicon to cache ([04d3d54](https://github.com/Rindula/hirsch/commit/04d3d54a3561463f1f9ac90c2fa93cd41c779bd4))
+* remove dynamic cache ([ddabf8c](https://github.com/Rindula/hirsch/commit/ddabf8cdd5ca6f7efe678db8152dc74d3938f323))
+
+
+
