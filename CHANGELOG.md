@@ -1182,3 +1182,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.35](https://github.com/Rindula/hirsch/compare/v1.6.34...v1.6.35) (2021-08-09)
+
+
+### Code Refactoring
+
+* Add exception messages ([9555fe7](https://github.com/Rindula/hirsch/commit/9555fe77dce6ca8b2462898680862fbb29f6268b))
+
+
+
