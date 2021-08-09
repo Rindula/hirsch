@@ -1168,3 +1168,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.34](https://github.com/Rindula/hirsch/compare/v1.6.33...v1.6.34) (2021-08-09)
+
+
+### Tests
+
+* skip csrf tests ([31b0df5](https://github.com/Rindula/hirsch/commit/31b0df58d19226d2351b1438c3458be4b9a5b8e9))
+
+
+### Code Refactoring
+
+* disable csrfMiddleware ([d3b4588](https://github.com/Rindula/hirsch/commit/d3b4588dbf406b031686ccabb788ac963f95c81c))
+
+
+
