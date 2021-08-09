@@ -1130,3 +1130,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.30](https://github.com/Rindula/hirsch/compare/v1.6.29...v1.6.30) (2021-08-09)
+
+
+### Continuous Integration
+
+* change cuncurrency parameters ([14bbb56](https://github.com/Rindula/hirsch/commit/14bbb56d450bfb82915f0bbe48d88c5bf877c9b9))
+
+
+
