@@ -1222,3 +1222,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.40](https://github.com/Rindula/hirsch/compare/v1.6.39...v1.6.40) (2021-08-10)
+
+
+### Bug Fixes
+
+* sw post ([bec63dc](https://github.com/Rindula/hirsch/commit/bec63dccd68a179a3f574a01e630031d24b5fd92))
+
+
+
