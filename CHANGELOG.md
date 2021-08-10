@@ -1251,3 +1251,23 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.7.1](https://github.com/Rindula/hirsch/compare/v1.7.0...v1.7.1) (2021-08-10)
+
+
+### Bug Fixes
+
+* css animation duration ([94ac469](https://github.com/Rindula/hirsch/commit/94ac4692b8870ba0d22f64da34ceb4b18f57de6d))
+
+
+### Continuous Integration
+
+* fix order if ([15a2af0](https://github.com/Rindula/hirsch/commit/15a2af004568f31f61b83324cd2c4b0606cc5ada))
+* modify order ([3da37b0](https://github.com/Rindula/hirsch/commit/3da37b0071a4e8f4c6b9bad7315086347c2ed67e))
+
+
+### Code Refactoring
+
+* get that animation back ([9d5a929](https://github.com/Rindula/hirsch/commit/9d5a92964edf8124606e04159d9cf17137603358))
+
+
+
