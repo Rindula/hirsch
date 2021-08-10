@@ -1213,3 +1213,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.39](https://github.com/Rindula/hirsch/compare/v1.6.38...v1.6.39) (2021-08-10)
+
+
+### Reverts
+
+* Revert fix: sw headers ([2357137](https://github.com/Rindula/hirsch/commit/2357137ef209c186252365e52a18fc2779c1fc66))
+
+
+
