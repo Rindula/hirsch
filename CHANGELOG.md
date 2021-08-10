@@ -1204,3 +1204,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.6.38](https://github.com/Rindula/hirsch/compare/v1.6.37...v1.6.38) (2021-08-10)
+
+
+### Bug Fixes
+
+* sw headers ([6395c30](https://github.com/Rindula/hirsch/commit/6395c30143d70115f9945753fd2509d0dad40963))
+
+
+
