@@ -1231,3 +1231,23 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [1.7.0](https://github.com/Rindula/hirsch/compare/v1.6.40...v1.7.0) (2021-08-10)
+
+
+### Features
+
+* Tagesessenwarnung ([9be3f91](https://github.com/Rindula/hirsch/commit/9be3f912d362f2f9438f0a4b054f1768d64dde1f)), closes [#144](https://github.com/Rindula/hirsch/issues/144)
+
+
+### Bug Fixes
+
+* leftover debugging true ([d92807f](https://github.com/Rindula/hirsch/commit/d92807f923cec26b13aa1990552fb7b05b781cbf))
+* ordercount warning ([c1e1780](https://github.com/Rindula/hirsch/commit/c1e1780712a5d92714187655c9769f3c9a035331))
+
+
+### Continuous Integration
+
+* add concurrency for build ([afc5e8b](https://github.com/Rindula/hirsch/commit/afc5e8b4264358d71bdca8276b9020dd9ea5ca7e))
+
+
+
