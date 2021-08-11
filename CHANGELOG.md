@@ -1271,3 +1271,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.7.2](https://github.com/Rindula/hirsch/compare/v1.7.1...v1.7.2) (2021-08-11)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#145](https://github.com/Rindula/hirsch/issues/145)) ([e5ce3ef](https://github.com/Rindula/hirsch/commit/e5ce3ef607af7f0f209b4b5a37fed856edc3e29e))
+
+
+
