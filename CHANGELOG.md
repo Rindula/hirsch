@@ -1280,3 +1280,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.7.3](https://github.com/Rindula/hirsch/compare/v1.7.2...v1.7.3) (2021-08-11)
+
+
+### Code Refactoring
+
+* change animation duration ([8ecd572](https://github.com/Rindula/hirsch/commit/8ecd5726d4fc66346197eb4de7e59f04e8b71c88))
+* change emoji to icon ([6d55fec](https://github.com/Rindula/hirsch/commit/6d55feca9a14a489526e1e507f152cf50b591cb4))
+
+
+
