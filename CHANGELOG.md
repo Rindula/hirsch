@@ -1290,3 +1290,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [1.8.0](https://github.com/Rindula/hirsch/compare/v1.7.3...v1.8.0) (2021-08-11)
+
+
+### Features
+
+* make order-until to ajax ([931119a](https://github.com/Rindula/hirsch/commit/931119a2ca604061df43fc5ee983b8ae17746ef5))
+
+
+
