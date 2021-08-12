@@ -1322,3 +1322,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.3](https://github.com/Rindula/hirsch/compare/v1.8.2...v1.8.3) (2021-08-12)
+
+
+### Continuous Integration
+
+* generate fitting credentials ([37bda99](https://github.com/Rindula/hirsch/commit/37bda9958c7e7dc98b9032708509f91d3ba966ef))
+
+
+
