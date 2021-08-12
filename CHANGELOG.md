@@ -1299,3 +1299,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.1](https://github.com/Rindula/hirsch/compare/v1.8.0...v1.8.1) (2021-08-12)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from  to  ([#146](https://github.com/Rindula/hirsch/issues/146)) ([42a2d44](https://github.com/Rindula/hirsch/commit/42a2d441a8bed544a6ffde7589a31cb3cfa7d44c))
+
+
+### Code Refactoring
+
+* lift active paypalme visually ([0972f69](https://github.com/Rindula/hirsch/commit/0972f69dded26c068c46e6f8b94210a79064746a))
+
+
+
