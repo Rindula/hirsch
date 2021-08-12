@@ -1331,3 +1331,13 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.4](https://github.com/Rindula/hirsch/compare/v1.8.3...v1.8.4) (2021-08-12)
+
+
+### Continuous Integration
+
+* add build environment ([785a9db](https://github.com/Rindula/hirsch/commit/785a9dbcd34466b8c74394387506714c8585f34f))
+* fix htaccess ([f72aa16](https://github.com/Rindula/hirsch/commit/f72aa1621cc1f328ba901d1d3e6040bfe682429b))
+
+
+
