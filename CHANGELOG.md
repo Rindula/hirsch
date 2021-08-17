@@ -1341,3 +1341,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.5](https://github.com/Rindula/hirsch/compare/v1.8.4...v1.8.5) (2021-08-17)
+
+
+### Build Systems
+
+* **deps:** bump smalot/pdfparser from 1.0.2 to 1.1.0 ([#148](https://github.com/Rindula/hirsch/issues/148)) ([6abec95](https://github.com/Rindula/hirsch/commit/6abec95892a84ad8cc59756cd364de96a4ee39eb))
+
+
+
