@@ -1368,3 +1368,22 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.8](https://github.com/Rindula/hirsch/compare/v1.8.7...v1.8.8) (2021-08-20)
+
+
+### Build Systems
+
+* composer 8 preparations ([820c83f](https://github.com/Rindula/hirsch/commit/820c83f3bb884b5ed45b940563f5c83c6810fda3))
+
+
+### Code Refactoring
+
+* php 8 preperations ([dafdbbd](https://github.com/Rindula/hirsch/commit/dafdbbdeee68ce298f65f9f31a38bfaeb70b0aac))
+
+
+### Continuous Integration
+
+* unittest with php 8 ([79dc8d9](https://github.com/Rindula/hirsch/commit/79dc8d9b46b4d89a05e443760103b16b1086e9fb))
+
+
+
