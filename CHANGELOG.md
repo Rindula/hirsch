@@ -1387,3 +1387,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.9](https://github.com/Rindula/hirsch/compare/v1.8.8...v1.8.9) (2021-08-20)
+
+
+### Build Systems
+
+* use php 8 ([0f1ea36](https://github.com/Rindula/hirsch/commit/0f1ea363d46f810417b28a1ae91119cd55206d4b))
+
+
+
