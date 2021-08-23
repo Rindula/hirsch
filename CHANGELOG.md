@@ -1396,3 +1396,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.10](https://github.com/Rindula/hirsch/compare/v1.8.9...v1.8.10) (2021-08-23)
+
+
+### Bug Fixes
+
+* php 8 compatibility ([e466214](https://github.com/Rindula/hirsch/commit/e466214af59517b1d6414abc64ca2173e0306b4b))
+
+
+
