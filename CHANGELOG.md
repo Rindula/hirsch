@@ -1459,3 +1459,12 @@ All notable changes to this project will be documented in this file.
 
 
 
+### [1.8.19](https://github.com/Rindula/hirsch/compare/v1.8.18...v1.8.19) (2021-09-16)
+
+
+### Continuous Integration
+
+* change argument order ([e72590a](https://github.com/Rindula/hirsch/commit/e72590a5f38b6f3a2e152bbdd8e02ebed91629ab))
+* change main php to 8 ([c0ead49](https://github.com/Rindula/hirsch/commit/c0ead490f539446152ae2570e2ac63303c814784))
+* fix changelog escape ([3e5dace](https://github.com/Rindula/hirsch/commit/3e5dacee64a93cea57e74880fe1f626e8cebd4bb))
+* fix missing version ([4f299fc](https://github.com/Rindula/hirsch/commit/4f299fc2294746a3af6971b36233f803663ddf07))
