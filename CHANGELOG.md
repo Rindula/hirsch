@@ -1483,3 +1483,16 @@ All notable changes to this project will be documented in this file.
 * **deps-dev:** bump cakephp/debug_kit from 4.4.3 to 4.4.4 ([#162](https://github.com/Rindula/hirsch/issues/162)) ([b54d005](https://github.com/Rindula/hirsch/commit/b54d005ef42861632ea280c1e94e7ceca03bce44))
 * bump webroot/vue-apps/bezahlen from `c4b317d` to `8b8b46a` ([#167](https://github.com/Rindula/hirsch/issues/167)) ([0f18d6a](https://github.com/Rindula/hirsch/commit/0f18d6adf3b19e2ffcd26d806dc091f9c358c380))
 * bump webroot/vue-apps/bezahlen from `f7e4017` to `c4b317d` ([#166](https://github.com/Rindula/hirsch/issues/166)) ([7e4e05f](https://github.com/Rindula/hirsch/commit/7e4e05f92dd8c19b32a208c7d1319b664b98bdff))
+### [1.8.19](https://github.com/Rindula/hirsch/compare/v1.8.18...v1.8.19) (2021-09-17)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from `8b8b46a` to `30075d0` ([#169](https://github.com/Rindula/hirsch/issues/169)) ([05a5053](https://github.com/Rindula/hirsch/commit/05a50535f784725eabf2474f510237ca9874a035))
+
+
+### Continuous Integration
+
+* add empty line to changelog ([56acb56](https://github.com/Rindula/hirsch/commit/56acb56d65ee5af10653c6910016d1becafb7e8c))
+* change commit message ([06c7e06](https://github.com/Rindula/hirsch/commit/06c7e06c1426309d0675adf41d7c6c79e3658128))
+* intended failure on push ([f29ff68](https://github.com/Rindula/hirsch/commit/f29ff68265083ed40d0b612b8d4fe4e854ae9ae7))
