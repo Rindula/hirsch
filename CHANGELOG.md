@@ -1496,3 +1496,9 @@ All notable changes to this project will be documented in this file.
 * add empty line to changelog ([56acb56](https://github.com/Rindula/hirsch/commit/56acb56d65ee5af10653c6910016d1becafb7e8c))
 * change commit message ([06c7e06](https://github.com/Rindula/hirsch/commit/06c7e06c1426309d0675adf41d7c6c79e3658128))
 * intended failure on push ([f29ff68](https://github.com/Rindula/hirsch/commit/f29ff68265083ed40d0b612b8d4fe4e854ae9ae7))
+### [1.8.20](https://github.com/Rindula/hirsch/compare/v1.8.19...v1.8.20) (2021-09-20)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from `30075d0` to `386b572` ([#170](https://github.com/Rindula/hirsch/issues/170)) ([2b19edf](https://github.com/Rindula/hirsch/commit/2b19edf97d51c4274788368ee5e211de3794d2ca))
