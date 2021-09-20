@@ -1516,3 +1516,9 @@ All notable changes to this project will be documented in this file.
 ### Code Refactoring
 
 * use serviceworker cache ([817f2be](https://github.com/Rindula/hirsch/commit/817f2becebd35f8073c56079a6e67cb8a3cf2a7e))
+### [1.8.24](https://github.com/Rindula/hirsch/compare/v1.8.23...v1.8.24) (2021-09-20)
+
+
+### Continuous Integration
+
+* add js security analysis ([aeaa797](https://github.com/Rindula/hirsch/commit/aeaa797266a51a3ef88adeb525e17c322e50786c))
