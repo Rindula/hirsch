@@ -1509,3 +1509,4 @@ All notable changes to this project will be documented in this file.
 
 * serviceworker use commit hash ([4bdda43](https://github.com/Rindula/hirsch/commit/4bdda43a6dae198165d7f2139097269403ea984d))
 * **serviceworker:** cache vue app ([c3d00bd](https://github.com/Rindula/hirsch/commit/c3d00bd3b1174fb82f138fa7fdc2cc0778d6f2c1))
+### [1.8.22](https://github.com/Rindula/hirsch/compare/v1.8.21...v1.8.22) (2021-09-20)
