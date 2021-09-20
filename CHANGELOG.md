@@ -1502,3 +1502,10 @@ All notable changes to this project will be documented in this file.
 ### Build Systems
 
 * bump webroot/vue-apps/bezahlen from `30075d0` to `386b572` ([#170](https://github.com/Rindula/hirsch/issues/170)) ([2b19edf](https://github.com/Rindula/hirsch/commit/2b19edf97d51c4274788368ee5e211de3794d2ca))
+### [1.8.21](https://github.com/Rindula/hirsch/compare/v1.8.20...v1.8.21) (2021-09-20)
+
+
+### Code Refactoring
+
+* serviceworker use commit hash ([4bdda43](https://github.com/Rindula/hirsch/commit/4bdda43a6dae198165d7f2139097269403ea984d))
+* **serviceworker:** cache vue app ([c3d00bd](https://github.com/Rindula/hirsch/commit/c3d00bd3b1174fb82f138fa7fdc2cc0778d6f2c1))
