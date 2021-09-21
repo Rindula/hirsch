@@ -1522,3 +1522,9 @@ All notable changes to this project will be documented in this file.
 ### Continuous Integration
 
 * add js security analysis ([aeaa797](https://github.com/Rindula/hirsch/commit/aeaa797266a51a3ef88adeb525e17c322e50786c))
+### [1.8.25](https://github.com/Rindula/hirsch/compare/v1.8.24...v1.8.25) (2021-09-21)
+
+
+### Build Systems
+
+* bump webroot/vue-apps/bezahlen from `386b572` to `cd94666` ([#171](https://github.com/Rindula/hirsch/issues/171)) ([f5a3f11](https://github.com/Rindula/hirsch/commit/f5a3f1184b77a2e0cbe4efc5250590d013627b21))
