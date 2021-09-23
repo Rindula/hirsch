@@ -1551,3 +1551,14 @@ All notable changes to this project will be documented in this file.
 ### Continuous Integration
 
 * use improved job abort ([f4ebaad](https://github.com/Rindula/hirsch/commit/f4ebaaddeb205e4fea6411546dcf744544a96a27))
+## [1.10.0](https://github.com/Rindula/hirsch/compare/v1.9.1...v1.10.0) (2021-09-23)
+
+
+### Features
+
+* nur barzahlung ([e548ebd](https://github.com/Rindula/hirsch/commit/e548ebd1214c95c1e268fa4efafbb3fb26c0a0d4))
+
+
+### Bug Fixes
+
+* commit to use ([5f936a6](https://github.com/Rindula/hirsch/commit/5f936a6847624741e82b697ec9251ab4e9b6f434))
