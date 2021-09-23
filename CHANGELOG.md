@@ -1534,3 +1534,14 @@ All notable changes to this project will be documented in this file.
 ### Build Systems
 
 * bump webroot/vue-apps/bezahlen from `cd94666` to `cb442db` ([#172](https://github.com/Rindula/hirsch/issues/172)) ([985a748](https://github.com/Rindula/hirsch/commit/985a748c40cba5090c9d8f45992ef0242073bdd4))
+## [1.9.0](https://github.com/Rindula/hirsch/compare/v1.8.26...v1.9.0) (2021-09-23)
+
+
+### Features
+
+* delete aktive PaypalMe ([c08e83f](https://github.com/Rindula/hirsch/commit/c08e83fd79c2379aa838fbc551e63b02c2e5932d))
+
+
+### Bug Fixes
+
+* **submodule:** commit ([1cc1287](https://github.com/Rindula/hirsch/commit/1cc1287a0b316809532fd3102b0fce0466844ca3))
