@@ -1545,3 +1545,9 @@ All notable changes to this project will be documented in this file.
 ### Bug Fixes
 
 * **submodule:** commit ([1cc1287](https://github.com/Rindula/hirsch/commit/1cc1287a0b316809532fd3102b0fce0466844ca3))
+### [1.9.1](https://github.com/Rindula/hirsch/compare/v1.9.0...v1.9.1) (2021-09-23)
+
+
+### Continuous Integration
+
+* use improved job abort ([f4ebaad](https://github.com/Rindula/hirsch/commit/f4ebaaddeb205e4fea6411546dcf744544a96a27))
