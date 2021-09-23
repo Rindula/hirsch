@@ -1568,3 +1568,9 @@ All notable changes to this project will be documented in this file.
 ### Bug Fixes
 
 * **style:** offscreen label ([f93f61f](https://github.com/Rindula/hirsch/commit/f93f61fdc1dbb6a36c118f30a4b02b63cde79b14))
+### [1.10.2](https://github.com/Rindula/hirsch/compare/v1.10.1...v1.10.2) (2021-09-23)
+
+
+### Bug Fixes
+
+* styling ([ba94672](https://github.com/Rindula/hirsch/commit/ba9467208f63c98e14451a8cdc28042f62389e17))
