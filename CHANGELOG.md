@@ -1574,3 +1574,10 @@ All notable changes to this project will be documented in this file.
 ### Bug Fixes
 
 * styling ([ba94672](https://github.com/Rindula/hirsch/commit/ba9467208f63c98e14451a8cdc28042f62389e17))
+### [1.10.3](https://github.com/Rindula/hirsch/compare/v1.10.2...v1.10.3) (2021-09-24)
+
+
+### Code Refactoring
+
+* style ([5e28bf6](https://github.com/Rindula/hirsch/commit/5e28bf61dc102c1273707bded5b5f6f5e75856eb))
+* **serviceworker:** fix security issue ([8297f5a](https://github.com/Rindula/hirsch/commit/8297f5af8aa21c0ece154b87bdab25355f1d623e))
